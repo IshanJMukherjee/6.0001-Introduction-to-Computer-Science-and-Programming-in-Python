@@ -3,5 +3,3 @@
 Programming background before taking this course: [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 I've only written stuff that was interesting/new to me in the notes, so they are not comprehensive. Not everything in the notes is from the lectures (though most of it is). I also only started noting things lecture 4 onwards; earlier material was mostly completely familiar to me.
-
-As of now, I still haven't gotten aroud to completing pset 5.
